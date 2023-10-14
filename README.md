@@ -1,16 +1,13 @@
-### Hi there 👋
+# Halo semua! 
 
-<!--
-**nabilahrahmawati/nabilahrahmawati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Nabilah Rahmawati**.<br>
 
-Here are some ideas to get you started:
+Saya seorang **mahasiswa** geofisika di Universitas Padjadjaran.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya sedang menyusun tugas akhir saya mengenai AMT dan belajar berbagai hal lain termasuk coding.<br>
+
+Saya juga sedang ikut IDCamp 2023 yang diselenggarakan Dicoding x Indosat Ooredo.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nabilah-rahmawati/)ku ya.
+
+Terima kasih!
